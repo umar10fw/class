@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "lib"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "dart.cliConsole": "debugConsole",
+    "java.codeAction.sortMembers.avoidVolatileChanges": true,
+    "java.debug.settings.onBuildFailureProceed": true
+}
