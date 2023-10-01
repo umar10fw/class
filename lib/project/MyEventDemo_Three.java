@@ -24,7 +24,7 @@ System.out.println("button pressedddddddd");
 }
 	public static void main(String p[]){
 
-	MyEventDemo_Three obj=new MyEventDemo_Three();
+	new MyEventDemo_Three();
 
 	}
 }

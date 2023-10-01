@@ -15,7 +15,7 @@ class MyEventDemo_Second extends Frame{
 
 	public static void main(String p[]){
 
-	MyEventDemo_Second obj=new MyEventDemo_Second();
+	new MyEventDemo_Second();
 
 	}
 }

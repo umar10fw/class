@@ -34,7 +34,7 @@ class MyEventDemo_Four extends Frame{
 
 	public static void main(String p[]){
 
-	MyEventDemo_Four obj=new MyEventDemo_Four();
+	new MyEventDemo_Four();
 
 	}
 }
