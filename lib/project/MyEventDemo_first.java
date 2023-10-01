@@ -12,20 +12,15 @@ class MyEventDemo_first extends Frame implements ActionListener{
 	b.addActionListener(this);
 	setVisible(true);
 	}
+
 public void actionPerformed(ActionEvent i){
-
-System.out.println("button pressedddddddd");
-
-
+System.out.println("button pressed");
 }
+
 	public static void main(String p[]){
 
 	new MyEventDemo_first();
 
 	}
-
-
-
-
 
 }

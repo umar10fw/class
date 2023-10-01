@@ -7,7 +7,7 @@ class A3 {
         System.out.println("This is A class");
     }
 }
-class B extends A3 {
+class B3 extends A3 {
     void ShowB(){
         System.out.println("This is B class");
     }
@@ -15,7 +15,7 @@ class B extends A3 {
         A3 obj = new A3();
         obj.ShowA();
         // with A class we can't use B class properties 
-        B obj1 = new B();
+        B3 obj1 = new B3();
         obj1.ShowA();
         obj1.ShowB();
         // with B class we can access the A or B class properties 
